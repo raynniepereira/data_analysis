@@ -1,1 +1,3 @@
-## Esse repositório tem por objetivo compartilhar meus estudos com Data Analytics.
+## Portfolio
+
+Este repositório tem por objetivo compartilhar meus estudos na área de Data Science. 
